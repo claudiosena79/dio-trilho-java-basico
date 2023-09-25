@@ -5,7 +5,7 @@ public class TiposVariaveis {
         short ano = 2023;
         int cep = 21070333; // se valor iniciar com 0(0 a esquerda) utilize String
         long cpf = 98765432109L; // se valor iniciar com 0(0 a esquerda) utilize String
-        float PI = 3.14F;
+        // float PI = 3.14F;
         double salario = 12345.67;
 
         short numeroCurto = 1;
@@ -14,6 +14,8 @@ public class TiposVariaveis {
         System.out.println(numeroCurto);
         numeroCurto = 2;
         System.out.println(numeroCurto);
+
+        final double PI = 3.14;
 
     }
 }
