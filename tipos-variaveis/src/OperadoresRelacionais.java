@@ -32,5 +32,6 @@ public class OperadoresRelacionais {
 
         System.out.println(nome1.equals(nome2));// System.out.println(nome1==nome2);
 
+        leitor.close();
     }
 }
