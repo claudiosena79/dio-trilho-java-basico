@@ -26,7 +26,7 @@ public class Calculadora {
      * 
      * @param numero1 este é o primeiro parametro do método
      * @param numero2 este é o segundo parametro do método
-     * @return o resultado adição
+     * @return resultado adição
      */
 
     public Double adicionar() {
@@ -47,7 +47,7 @@ public class Calculadora {
      * 
      * @param numero1 este é o primeiro parametro do método
      * @param numero2 este é o segundo parametro do método
-     * @return o resultado subtração
+     * @return resultado subtração
      */
     public Double subtrair() {
         System.out.println("Digite o primeiro número: ");
@@ -67,7 +67,7 @@ public class Calculadora {
      * 
      * @param numero1 este é o primeiro parametro do método
      * @param numero2 este é o segundo parametro do método
-     * @return o resultado multiplicação
+     * @return resultado multiplicação
      */
 
     public Double multiplicar() {
@@ -88,7 +88,7 @@ public class Calculadora {
      * 
      * @param numero1 este é o primeiro parametro do método - dividendo
      * @param numero2 este é o segundo parametro do método - divisor
-     * @return o resultado divisão
+     * @return resultado divisão
      */
 
     public Double dividir() {
