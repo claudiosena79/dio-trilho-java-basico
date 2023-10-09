@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Usuario {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
         String operacao = "a";
         String continuar = "s";

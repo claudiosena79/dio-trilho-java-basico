@@ -1,0 +1,71 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "SobreMim",
+            "args": [
+                "claudio",
+                "sena",
+                "43",
+                "1.95",
+                "93"
+            ]
+            
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores.Operadores",
+            "projectName": "tipos-variaveis_7f8c6793"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresLogicos",
+            "projectName": "tipos-variaveis_7f8c6793"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresRelacionais",
+            "projectName": "tipos-variaveis_7f8c6793"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresTernarios",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresTernarios",
+            "projectName": "tipos-variaveis_7f8c6793"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnarios",
+            "request": "launch",
+            "mainClass": "Operadores.OperadoresUnarios",
+            "projectName": "tipos-variaveis_7f8c6793"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "tipos-variaveis_7f8c6793"
+        }
+    ]
+}
